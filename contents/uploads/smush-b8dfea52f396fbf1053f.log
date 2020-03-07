@@ -1,0 +1,145 @@
+[2020-03-04 11:43:20 : INFO] - Re_Smush_It_Task with attachment ID : 489, autocreated on : March 04, 2020 11:43:20 
+[2020-03-04 11:49:13 : INFO] - 
+ 
+[2020-03-04 11:49:13 : INFO] - Header for logs at time:  Wed, 04 Mar 2020 11:49:13 +0000 on http://localhost/mhh 
+[2020-03-04 11:49:13 : INFO] - WP: 5.3.2 
+[2020-03-04 11:49:13 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-04 11:49:13 : INFO] - MySQL: 5.7.26 
+[2020-03-04 11:49:13 : INFO] - WPLANG: en_US 
+[2020-03-04 11:49:13 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-04 11:49:13 : INFO] - Outbound connections: N 
+[2020-03-04 11:49:13 : INFO] - safe_mode: 0 
+[2020-03-04 11:49:13 : INFO] - max_execution_time: 300 
+[2020-03-04 11:49:13 : INFO] - memory_limit: 1G (used: 4.8M | 2M) 
+[2020-03-04 11:49:13 : INFO] - multisite: N 
+[2020-03-04 11:49:13 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-04 11:49:13 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-04 11:49:13 : INFO] - Set semaphore last lock (smush) time to 2020-03-04 11:49:13 
+[2020-03-04 11:49:13 : INFO] - Semaphore lock (smush) complete 
+[2020-03-04 11:49:13 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2020-03-04 11:49:13 : INFO] - Re_Smush_It_Task with attachment ID : 489, autocreated on : March 04, 2020 11:43:20 
+[2020-03-04 11:49:13 : INFO] - 95 
+[2020-03-04 11:49:17 : INFO] - Backing up the original image - 2020/03/hcg-injections-updraft-pre-smush-original.jpg 
+[2020-03-04 11:49:17 : INFO] - Re_Smush_It_Task with attachment ID : 489, autocreated on : March 04, 2020 11:43:20 
+[2020-03-04 11:49:17 : INFO] - 95 
+[2020-03-04 11:49:18 : INFO] - Re_Smush_It_Task with attachment ID : 489, autocreated on : March 04, 2020 11:43:20 
+[2020-03-04 11:49:18 : INFO] - 95 
+[2020-03-04 11:49:18 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/hcg-injections.jpg.The file was compressed from 140.02 KB to 62.38 KB saving 55.45 percent using WP-Optimize 
+[2020-03-04 11:49:18 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2020-03-04 11:49:18 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-04 11:49:18 : INFO] - Semaphore (smush) unlocked 
+[2020-03-04 11:49:18 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-04 11:49:18 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-04 11:49:18 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-04 11:59:27 : INFO] - 
+ 
+[2020-03-04 11:59:27 : INFO] - Header for logs at time:  Wed, 04 Mar 2020 11:59:27 +0000 on http://localhost/mhh 
+[2020-03-04 11:59:27 : INFO] - WP: 5.3.2 
+[2020-03-04 11:59:27 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-04 11:59:27 : INFO] - MySQL: 5.7.26 
+[2020-03-04 11:59:27 : INFO] - WPLANG: en_US 
+[2020-03-04 11:59:27 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-04 11:59:27 : INFO] - Outbound connections: N 
+[2020-03-04 11:59:27 : INFO] - safe_mode: 0 
+[2020-03-04 11:59:27 : INFO] - max_execution_time: 300 
+[2020-03-04 11:59:27 : INFO] - memory_limit: 1G (used: 4.8M | 2M) 
+[2020-03-04 11:59:27 : INFO] - multisite: N 
+[2020-03-04 11:59:27 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-04 11:59:27 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-04 12:13:57 : INFO] - Re_Smush_It_Task with attachment ID : 504, autocreated on : March 04, 2020 12:13:57 
+[2020-03-04 12:18:59 : INFO] - 
+ 
+[2020-03-04 12:18:59 : INFO] - Header for logs at time:  Wed, 04 Mar 2020 12:18:59 +0000 on http://localhost/mhh 
+[2020-03-04 12:18:59 : INFO] - WP: 5.3.2 
+[2020-03-04 12:18:59 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-04 12:18:59 : INFO] - MySQL: 5.7.26 
+[2020-03-04 12:18:59 : INFO] - WPLANG: en_US 
+[2020-03-04 12:18:59 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-04 12:18:59 : INFO] - Outbound connections: N 
+[2020-03-04 12:18:59 : INFO] - safe_mode: 0 
+[2020-03-04 12:18:59 : INFO] - max_execution_time: 300 
+[2020-03-04 12:18:59 : INFO] - memory_limit: 1G (used: 4.8M | 2M) 
+[2020-03-04 12:18:59 : INFO] - multisite: N 
+[2020-03-04 12:18:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-04 12:18:59 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-04 12:18:59 : INFO] - Set semaphore last lock (smush) time to 2020-03-04 12:18:59 
+[2020-03-04 12:18:59 : INFO] - Semaphore lock (smush) complete 
+[2020-03-04 12:18:59 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2020-03-04 12:18:59 : INFO] - Re_Smush_It_Task with attachment ID : 504, autocreated on : March 04, 2020 12:13:57 
+[2020-03-04 12:18:59 : INFO] - 95 
+[2020-03-04 12:19:04 : INFO] - Backing up the original image - 2020/03/testosterone-levels-by-age-updraft-pre-smush-original.jpg 
+[2020-03-04 12:19:04 : INFO] - Re_Smush_It_Task with attachment ID : 504, autocreated on : March 04, 2020 12:13:57 
+[2020-03-04 12:19:04 : INFO] - 95 
+[2020-03-04 12:19:05 : INFO] - Re_Smush_It_Task with attachment ID : 504, autocreated on : March 04, 2020 12:13:57 
+[2020-03-04 12:19:05 : INFO] - 95 
+[2020-03-04 13:10:01 : INFO] - Task with ID 12 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-03-04 13:10:01 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/76cdf4819b61d38588bde6a01958aebd\/_src_testosterone-levels-by-age-150x150.jpg","dest":"http:\/\/par3.static.resmush.it\/76cdf4819b61d38588bde6a01958aebd\/testosterone-levels-by-age-150x150.jpg","src_size":4768,"dest_size":4768,"percent":0,"output":"json","expires":"Wed, 04 Mar 2020 13:34:05 +0100","generator":"reSmush.it rev.2.0.4.20190519"} 
+[2020-03-04 13:10:01 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/testosterone-levels-by-age.jpg.The file was compressed from 24.14 KB to 24.14 KB saving 0 percent using WP-Optimize 
+[2020-03-04 13:10:01 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2020-03-04 13:10:01 : INFO] - Set semaphore last lock (smush) time to 2020-03-04 13:10:01 
+[2020-03-04 13:10:01 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-04 13:10:01 : INFO] - Semaphore (smush) unlocked 
+[2020-03-04 13:10:01 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-04 13:10:01 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-04 13:10:01 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-04 22:53:20 : INFO] - 
+ 
+[2020-03-04 22:53:20 : INFO] - Header for logs at time:  Wed, 04 Mar 2020 22:53:20 +0000 on http://localhost/mhh 
+[2020-03-04 22:53:20 : INFO] - WP: 5.3.2 
+[2020-03-04 22:53:20 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-04 22:53:20 : INFO] - MySQL: 5.7.26 
+[2020-03-04 22:53:20 : INFO] - WPLANG: en_US 
+[2020-03-04 22:53:20 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-04 22:53:20 : INFO] - Outbound connections: N 
+[2020-03-04 22:53:20 : INFO] - safe_mode: 0 
+[2020-03-04 22:53:20 : INFO] - max_execution_time: 300 
+[2020-03-04 22:53:20 : INFO] - memory_limit: 1G (used: 5.2M | 2M) 
+[2020-03-04 22:53:20 : INFO] - multisite: N 
+[2020-03-04 22:53:20 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-04 22:53:20 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-05 01:20:10 : INFO] - Re_Smush_It_Task with attachment ID : 511, autocreated on : March 05, 2020 01:20:10 
+[2020-03-05 01:25:19 : INFO] - 
+ 
+[2020-03-05 01:25:19 : INFO] - Header for logs at time:  Thu, 05 Mar 2020 01:25:19 +0000 on http://localhost/mhh 
+[2020-03-05 01:25:19 : INFO] - WP: 5.3.2 
+[2020-03-05 01:25:19 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-05 01:25:19 : INFO] - MySQL: 5.7.26 
+[2020-03-05 01:25:19 : INFO] - WPLANG: en_US 
+[2020-03-05 01:25:19 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-05 01:25:19 : INFO] - Outbound connections: N 
+[2020-03-05 01:25:19 : INFO] - safe_mode: 0 
+[2020-03-05 01:25:19 : INFO] - max_execution_time: 300 
+[2020-03-05 01:25:19 : INFO] - memory_limit: 1G (used: 4.8M | 2M) 
+[2020-03-05 01:25:19 : INFO] - multisite: N 
+[2020-03-05 01:25:19 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-05 01:25:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-05 01:25:19 : INFO] - Set semaphore last lock (smush) time to 2020-03-05 01:25:19 
+[2020-03-05 01:25:19 : INFO] - Semaphore lock (smush) complete 
+[2020-03-05 01:25:19 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2020-03-05 01:25:19 : INFO] - Re_Smush_It_Task with attachment ID : 511, autocreated on : March 05, 2020 01:20:10 
+[2020-03-05 01:25:19 : INFO] - 95 
+[2020-03-05 01:25:20 : INFO] - Backing up the original image - 2020/03/ben-johnson-updraft-pre-smush-original.jpg 
+[2020-03-05 01:25:20 : INFO] - Re_Smush_It_Task with attachment ID : 511, autocreated on : March 05, 2020 01:20:10 
+[2020-03-05 01:25:20 : INFO] - 95 
+[2020-03-05 01:25:21 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/ben-johnson.jpg.The file was compressed from 21.82 KB to 21.82 KB saving 0 percent using WP-Optimize 
+[2020-03-05 01:25:21 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2020-03-05 01:25:21 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-05 01:25:21 : INFO] - Semaphore (smush) unlocked 
+[2020-03-05 01:25:21 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-05 01:25:21 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-05 01:25:21 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-05 01:36:10 : INFO] - 
+ 
+[2020-03-05 01:36:10 : INFO] - Header for logs at time:  Thu, 05 Mar 2020 01:36:10 +0000 on http://localhost/mhh 
+[2020-03-05 01:36:10 : INFO] - WP: 5.3.2 
+[2020-03-05 01:36:10 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-05 01:36:10 : INFO] - MySQL: 5.7.26 
+[2020-03-05 01:36:10 : INFO] - WPLANG: en_US 
+[2020-03-05 01:36:10 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-05 01:36:10 : INFO] - Outbound connections: N 
+[2020-03-05 01:36:10 : INFO] - safe_mode: 0 
+[2020-03-05 01:36:10 : INFO] - max_execution_time: 300 
+[2020-03-05 01:36:10 : INFO] - memory_limit: 1G (used: 4.8M | 2M) 
+[2020-03-05 01:36:10 : INFO] - multisite: N 
+[2020-03-05 01:36:10 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-05 01:36:10 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
