@@ -143,3 +143,77 @@
 [2020-03-05 01:36:10 : INFO] - multisite: N 
 [2020-03-05 01:36:10 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
 [2020-03-05 01:36:10 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-14 19:27:29 : INFO] - Re_Smush_It_Task with attachment ID : 559, autocreated on : March 14, 2020 07:27:29 
+[2020-03-14 19:28:52 : INFO] - Re_Smush_It_Task with attachment ID : 560, autocreated on : March 14, 2020 07:28:52 
+[2020-03-14 19:29:06 : INFO] - Re_Smush_It_Task with attachment ID : 561, autocreated on : March 14, 2020 07:29:06 
+[2020-03-14 19:30:55 : INFO] - Re_Smush_It_Task with attachment ID : 563, autocreated on : March 14, 2020 07:30:55 
+[2020-03-14 19:31:04 : INFO] - Re_Smush_It_Task with attachment ID : 564, autocreated on : March 14, 2020 07:31:04 
+[2020-03-14 19:33:18 : INFO] - 
+ 
+[2020-03-14 19:33:18 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 19:33:18 +0000 on http://localhost/mhh 
+[2020-03-14 19:33:18 : INFO] - WP: 5.3.2 
+[2020-03-14 19:33:18 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 19:33:18 : INFO] - MySQL: 5.7.26 
+[2020-03-14 19:33:18 : INFO] - WPLANG: en_US 
+[2020-03-14 19:33:18 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 19:33:18 : INFO] - Outbound connections: N 
+[2020-03-14 19:33:18 : INFO] - safe_mode: 0 
+[2020-03-14 19:33:18 : INFO] - max_execution_time: 300 
+[2020-03-14 19:33:18 : INFO] - memory_limit: 1G (used: 5.1M | 2M) 
+[2020-03-14 19:33:18 : INFO] - multisite: N 
+[2020-03-14 19:33:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 19:33:18 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2020-03-14 19:33:18 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 19:33:18 
+[2020-03-14 19:33:18 : INFO] - Semaphore lock (smush) complete 
+[2020-03-14 19:33:18 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2020-03-14 19:33:18 : INFO] - Re_Smush_It_Task with attachment ID : 559, autocreated on : March 14, 2020 07:27:29 
+[2020-03-14 19:33:18 : INFO] - 95 
+[2020-03-14 19:33:20 : INFO] - Backing up the original image - 2020/03/thigh-testosterone-injection-updraft-pre-smush-original.jpg 
+[2020-03-14 19:33:20 : INFO] - Re_Smush_It_Task with attachment ID : 559, autocreated on : March 14, 2020 07:27:29 
+[2020-03-14 19:33:20 : INFO] - 95 
+[2020-03-14 19:33:21 : INFO] - Re_Smush_It_Task with attachment ID : 559, autocreated on : March 14, 2020 07:27:29 
+[2020-03-14 19:33:21 : INFO] - 95 
+[2020-03-14 19:33:22 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/thigh-testosterone-injection.jpg.The file was compressed from 17.92 KB to 17.92 KB saving 0 percent using WP-Optimize 
+[2020-03-14 19:33:22 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2020-03-14 19:33:22 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2020-03-14 19:33:22 : INFO] - Re_Smush_It_Task with attachment ID : 560, autocreated on : March 14, 2020 07:28:52 
+[2020-03-14 19:33:22 : INFO] - 95 
+[2020-03-14 19:33:23 : INFO] - Backing up the original image - 2020/03/drawing-testosterone-injection-updraft-pre-smush-original.jpg 
+[2020-03-14 19:33:23 : INFO] - Re_Smush_It_Task with attachment ID : 560, autocreated on : March 14, 2020 07:28:52 
+[2020-03-14 19:33:23 : INFO] - 95 
+[2020-03-14 19:33:24 : INFO] - Re_Smush_It_Task with attachment ID : 560, autocreated on : March 14, 2020 07:28:52 
+[2020-03-14 19:33:24 : INFO] - 95 
+[2020-03-14 19:33:25 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/drawing-testosterone-injection.jpg.The file was compressed from 30.39 KB to 30.39 KB saving 0 percent using WP-Optimize 
+[2020-03-14 19:33:25 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2020-03-14 19:33:25 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2020-03-14 19:33:25 : INFO] - Re_Smush_It_Task with attachment ID : 561, autocreated on : March 14, 2020 07:29:06 
+[2020-03-14 19:33:25 : INFO] - 95 
+[2020-03-14 19:33:27 : INFO] - Backing up the original image - 2020/03/thigh-testosterone-injection-1-updraft-pre-smush-original.jpg 
+[2020-03-14 19:33:27 : INFO] - Re_Smush_It_Task with attachment ID : 561, autocreated on : March 14, 2020 07:29:06 
+[2020-03-14 19:33:27 : INFO] - 95 
+[2020-03-14 19:33:28 : INFO] - Task with ID 16 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 19:33:28 : INFO] - Re_Smush_It_Task with attachment ID : 561, autocreated on : March 14, 2020 07:29:06 
+[2020-03-14 19:33:28 : INFO] - 95 
+[2020-03-14 19:33:29 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/thigh-testosterone-injection-1.jpg.The file was compressed from 17.92 KB to 17.92 KB saving 0 percent using WP-Optimize 
+[2020-03-14 19:33:29 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2020-03-14 19:33:29 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2020-03-14 19:33:29 : INFO] - Re_Smush_It_Task with attachment ID : 563, autocreated on : March 14, 2020 07:30:55 
+[2020-03-14 19:33:29 : INFO] - 95 
+[2020-03-14 19:33:29 : INFO] - Task with ID 17 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 19:33:29 : INFO] - Re_Smush_It_Task with attachment ID : 563, autocreated on : March 14, 2020 07:30:55 
+[2020-03-14 19:33:29 : INFO] - 95 
+[2020-03-14 19:33:30 : INFO] - Task with ID 17 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 19:33:30 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2020-03-14 19:33:30 : INFO] - Re_Smush_It_Task with attachment ID : 564, autocreated on : March 14, 2020 07:31:04 
+[2020-03-14 19:33:30 : INFO] - 95 
+[2020-03-14 19:33:30 : INFO] - Backing up the original image - 2020/03/testosterone-cypionate-updraft-pre-smush-original.jpg 
+[2020-03-14 19:33:30 : INFO] - Re_Smush_It_Task with attachment ID : 564, autocreated on : March 14, 2020 07:31:04 
+[2020-03-14 19:33:30 : INFO] - 95 
+[2020-03-14 19:33:31 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/testosterone-cypionate.jpg.The file was compressed from 9.04 KB to 9.04 KB saving 0 percent using WP-Optimize 
+[2020-03-14 19:33:31 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2020-03-14 19:33:31 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-14 19:33:31 : INFO] - Semaphore (smush) unlocked 
+[2020-03-14 19:33:31 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2020-03-14 19:33:31 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-14 19:33:31 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2020-03-14 19:33:52 : INFO] - Re_Smush_It_Task with attachment ID : 565, autocreated on : March 14, 2020 07:33:52 
