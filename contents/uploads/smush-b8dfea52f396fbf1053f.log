@@ -762,3 +762,118 @@
 [2020-03-14 22:22:38 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
 [2020-03-14 22:22:38 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
 [2020-03-14 22:22:38 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-14 22:34:21 : INFO] - 
+ 
+[2020-03-14 22:34:21 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 22:34:21 +0000 on http://localhost/mhh 
+[2020-03-14 22:34:21 : INFO] - WP: 5.3.2 
+[2020-03-14 22:34:21 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 22:34:21 : INFO] - MySQL: 5.7.26 
+[2020-03-14 22:34:21 : INFO] - WPLANG: en_US 
+[2020-03-14 22:34:21 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 22:34:21 : INFO] - Outbound connections: N 
+[2020-03-14 22:34:21 : INFO] - safe_mode: 0 
+[2020-03-14 22:34:21 : INFO] - max_execution_time: 300 
+[2020-03-14 22:34:21 : INFO] - memory_limit: 1G (used: 5.1M | 4M) 
+[2020-03-14 22:34:21 : INFO] - multisite: N 
+[2020-03-14 22:34:21 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 22:34:21 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-14 22:51:29 : INFO] - Re_Smush_It_Task server status: Online 
+[2020-03-14 22:51:29 : INFO] - 
+ 
+[2020-03-14 22:51:29 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 22:51:29 +0000 on http://localhost/mhh 
+[2020-03-14 22:51:29 : INFO] - WP: 5.3.2 
+[2020-03-14 22:51:29 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 22:51:29 : INFO] - MySQL: 5.7.26 
+[2020-03-14 22:51:29 : INFO] - WPLANG: en_US 
+[2020-03-14 22:51:29 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 22:51:29 : INFO] - Outbound connections: N 
+[2020-03-14 22:51:29 : INFO] - safe_mode: 0 
+[2020-03-14 22:51:29 : INFO] - max_execution_time: 300 
+[2020-03-14 22:51:29 : INFO] - memory_limit: 1G (used: 5.7M | 2M) 
+[2020-03-14 22:51:29 : INFO] - multisite: N 
+[2020-03-14 22:51:29 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 22:51:29 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2020-03-14 22:51:29 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 22:51:29 
+[2020-03-14 22:51:29 : INFO] - Semaphore lock (smush) complete 
+[2020-03-14 22:51:29 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2020-03-14 22:51:29 : INFO] - Re_Smush_It_Task - Attachment ID : 586, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:29 : INFO] - 95 
+[2020-03-14 22:51:31 : INFO] - Backing up the original image - 2020/03/pictures-of-prostate-cancer-1-updraft-pre-smush-original.jpg 
+[2020-03-14 22:51:31 : INFO] - Re_Smush_It_Task - Attachment ID : 586, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:31 : INFO] - 95 
+[2020-03-14 22:51:32 : INFO] - Task with ID 54 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 22:51:32 : INFO] - Re_Smush_It_Task - Attachment ID : 586, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:32 : INFO] - 95 
+[2020-03-14 22:51:33 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/pictures-of-prostate-cancer-1.jpg.The file was compressed from 27.66 KB to 27.66 KB saving 0 percent using WP-Optimize 
+[2020-03-14 22:51:33 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2020-03-14 22:51:33 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2020-03-14 22:51:33 : INFO] - Re_Smush_It_Task - Attachment ID : 563, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:33 : INFO] - 95 
+[2020-03-14 22:51:34 : INFO] - Backing up the original image - 2020/03/testosterone-enanthate-updraft-pre-smush-original.jpg 
+[2020-03-14 22:51:34 : INFO] - Re_Smush_It_Task - Attachment ID : 563, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:34 : INFO] - 95 
+[2020-03-14 22:51:35 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/testosterone-enanthate.jpg.The file was compressed from 7.68 KB to 7.68 KB saving 0 percent using WP-Optimize 
+[2020-03-14 22:51:35 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2020-03-14 22:51:35 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2020-03-14 22:51:35 : INFO] - Re_Smush_It_Task - Attachment ID : 601, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:35 : INFO] - 95 
+[2020-03-14 22:51:36 : INFO] - Backing up the original image - 2020/03/best-treatment-for-prostate-cancer-2-updraft-pre-smush-original.jpg 
+[2020-03-14 22:51:37 : INFO] - Re_Smush_It_Task - Attachment ID : 601, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:37 : INFO] - 95 
+[2020-03-14 22:51:37 : INFO] - Task with ID 52 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 22:51:37 : INFO] - Re_Smush_It_Task - Attachment ID : 601, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:37 : INFO] - 95 
+[2020-03-14 22:51:38 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/best-treatment-for-prostate-cancer-2.jpg.The file was compressed from 45.12 KB to 44.42 KB saving 1.54 percent using WP-Optimize 
+[2020-03-14 22:51:38 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2020-03-14 22:51:38 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2020-03-14 22:51:38 : INFO] - Re_Smush_It_Task - Attachment ID : 594, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:38 : INFO] - 95 
+[2020-03-14 22:51:39 : INFO] - Task with ID 53 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 22:51:39 : INFO] - Re_Smush_It_Task - Attachment ID : 594, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:39 : INFO] - 95 
+[2020-03-14 22:51:39 : INFO] - Task with ID 53 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 22:51:39 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2020-03-14 22:51:39 : INFO] - Re_Smush_It_Task - Attachment ID : 615, Started on : March 14, 2020 10:51:29 
+[2020-03-14 22:51:39 : INFO] - 95 
+[2020-03-14 22:51:40 : INFO] - Task with ID 51 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 22:51:40 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-14 22:51:40 : INFO] - Semaphore (smush) unlocked 
+[2020-03-14 22:51:40 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2020-03-14 22:51:40 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-14 22:51:40 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2020-03-14 22:51:57 : INFO] - Cannot copy from uploaded file 
+[2020-03-14 22:51:57 : INFO] - Re_Smush_It_Task server status: Offline 
+[2020-03-14 22:52:02 : INFO] - Re_Smush_It_Task server status: Online 
+[2020-03-14 22:52:02 : INFO] - 
+ 
+[2020-03-14 22:52:02 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 22:52:02 +0000 on http://localhost/mhh 
+[2020-03-14 22:52:02 : INFO] - WP: 5.3.2 
+[2020-03-14 22:52:02 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 22:52:02 : INFO] - MySQL: 5.7.26 
+[2020-03-14 22:52:02 : INFO] - WPLANG: en_US 
+[2020-03-14 22:52:02 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 22:52:02 : INFO] - Outbound connections: N 
+[2020-03-14 22:52:02 : INFO] - safe_mode: 0 
+[2020-03-14 22:52:02 : INFO] - max_execution_time: 300 
+[2020-03-14 22:52:02 : INFO] - memory_limit: 1G (used: 5.7M | 2M) 
+[2020-03-14 22:52:02 : INFO] - multisite: N 
+[2020-03-14 22:52:02 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 22:52:02 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-03-14 22:52:02 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 22:52:02 
+[2020-03-14 22:52:02 : INFO] - Semaphore lock (smush) complete 
+[2020-03-14 22:52:02 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2020-03-14 22:52:02 : INFO] - Re_Smush_It_Task - Attachment ID : 594, Started on : March 14, 2020 10:52:02 
+[2020-03-14 22:52:02 : INFO] - 95 
+[2020-03-14 22:52:03 : INFO] - Task with ID 57 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 22:52:03 : INFO] - Re_Smush_It_Task - Attachment ID : 594, Started on : March 14, 2020 10:52:02 
+[2020-03-14 22:52:03 : INFO] - 95 
+[2020-03-14 22:52:03 : INFO] - Task with ID 57 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 22:52:04 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2020-03-14 22:52:04 : INFO] - Re_Smush_It_Task - Attachment ID : 615, Started on : March 14, 2020 10:52:02 
+[2020-03-14 22:52:04 : INFO] - 95 
+[2020-03-14 22:52:04 : INFO] - Task with ID 56 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 22:52:04 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-14 22:52:04 : INFO] - Semaphore (smush) unlocked 
+[2020-03-14 22:52:04 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-03-14 22:52:04 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-14 22:52:04 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
