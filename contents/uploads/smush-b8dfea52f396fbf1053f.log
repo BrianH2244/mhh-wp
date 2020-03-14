@@ -665,3 +665,100 @@
 [2020-03-14 20:34:54 : INFO] - Re_Smush_It_Task with attachment ID : 609, autocreated on : March 14, 2020 08:34:54 
 [2020-03-14 20:35:23 : INFO] - Re_Smush_It_Task with attachment ID : 611, autocreated on : March 14, 2020 08:35:23 
 [2020-03-14 20:36:40 : INFO] - Re_Smush_It_Task with attachment ID : 613, autocreated on : March 14, 2020 08:36:40 
+[2020-03-14 20:45:48 : INFO] - 
+ 
+[2020-03-14 20:45:48 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 20:45:48 +0000 on http://localhost/mhh 
+[2020-03-14 20:45:48 : INFO] - WP: 5.3.2 
+[2020-03-14 20:45:48 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 20:45:48 : INFO] - MySQL: 5.7.26 
+[2020-03-14 20:45:48 : INFO] - WPLANG: en_US 
+[2020-03-14 20:45:48 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 20:45:48 : INFO] - Outbound connections: N 
+[2020-03-14 20:45:48 : INFO] - safe_mode: 0 
+[2020-03-14 20:45:48 : INFO] - max_execution_time: 300 
+[2020-03-14 20:45:48 : INFO] - memory_limit: 1G (used: 5.1M | 4M) 
+[2020-03-14 20:45:48 : INFO] - multisite: N 
+[2020-03-14 20:45:48 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 20:45:48 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2020-03-14 20:45:48 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 20:45:48 
+[2020-03-14 20:45:48 : INFO] - Semaphore lock (smush) complete 
+[2020-03-14 20:45:48 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2020-03-14 20:45:48 : INFO] - Re_Smush_It_Task with attachment ID : 613, autocreated on : March 14, 2020 08:36:40 
+[2020-03-14 20:45:48 : INFO] - 95 
+[2020-03-14 20:45:50 : INFO] - Backing up the original image - 2020/03/testosterone-replacement-therapy-updraft-pre-smush-original.jpg 
+[2020-03-14 20:45:50 : INFO] - Re_Smush_It_Task with attachment ID : 613, autocreated on : March 14, 2020 08:36:40 
+[2020-03-14 20:45:50 : INFO] - 95 
+[2020-03-14 20:45:51 : INFO] - Re_Smush_It_Task with attachment ID : 613, autocreated on : March 14, 2020 08:36:40 
+[2020-03-14 20:45:51 : INFO] - 95 
+[2020-03-14 20:45:51 : INFO] - Task with ID 49 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:45:51 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/testosterone-replacement-therapy.jpg.The file was compressed from 26.69 KB to 26.69 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:45:51 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2020-03-14 20:45:51 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2020-03-14 20:45:51 : INFO] - Re_Smush_It_Task with attachment ID : 611, autocreated on : March 14, 2020 08:35:23 
+[2020-03-14 20:45:51 : INFO] - 95 
+[2020-03-14 20:45:54 : INFO] - Backing up the original image - 2020/03/high-testosterone-levels-1-updraft-pre-smush-original.jpg 
+[2020-03-14 20:45:54 : INFO] - Re_Smush_It_Task with attachment ID : 611, autocreated on : March 14, 2020 08:35:23 
+[2020-03-14 20:45:54 : INFO] - 95 
+[2020-03-14 20:45:55 : INFO] - Task with ID 48 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:45:55 : INFO] - Re_Smush_It_Task with attachment ID : 611, autocreated on : March 14, 2020 08:35:23 
+[2020-03-14 20:45:55 : INFO] - 95 
+[2020-03-14 20:45:55 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/high-testosterone-levels-1.jpg.The file was compressed from 51.68 KB to 51.68 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:45:55 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2020-03-14 20:45:55 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2020-03-14 20:45:55 : INFO] - Re_Smush_It_Task with attachment ID : 609, autocreated on : March 14, 2020 08:34:54 
+[2020-03-14 20:45:55 : INFO] - 95 
+[2020-03-14 20:45:57 : INFO] - Backing up the original image - 2020/03/high-testosterone-levels-updraft-pre-smush-original.jpg 
+[2020-03-14 20:45:57 : INFO] - Re_Smush_It_Task with attachment ID : 609, autocreated on : March 14, 2020 08:34:54 
+[2020-03-14 20:45:57 : INFO] - 95 
+[2020-03-14 20:45:57 : INFO] - Task with ID 47 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:45:57 : INFO] - Re_Smush_It_Task with attachment ID : 609, autocreated on : March 14, 2020 08:34:54 
+[2020-03-14 20:45:57 : INFO] - 95 
+[2020-03-14 20:45:58 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/high-testosterone-levels.jpg.The file was compressed from 51.68 KB to 51.68 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:45:58 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2020-03-14 20:45:58 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-14 20:45:58 : INFO] - Semaphore (smush) unlocked 
+[2020-03-14 20:45:58 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2020-03-14 20:45:58 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-14 20:45:58 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2020-03-14 21:07:38 : INFO] - 
+ 
+[2020-03-14 21:07:38 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 21:07:38 +0000 on http://localhost/mhh 
+[2020-03-14 21:07:38 : INFO] - WP: 5.3.2 
+[2020-03-14 21:07:38 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 21:07:38 : INFO] - MySQL: 5.7.26 
+[2020-03-14 21:07:38 : INFO] - WPLANG: en_US 
+[2020-03-14 21:07:38 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 21:07:38 : INFO] - Outbound connections: N 
+[2020-03-14 21:07:38 : INFO] - safe_mode: 0 
+[2020-03-14 21:07:38 : INFO] - max_execution_time: 300 
+[2020-03-14 21:07:38 : INFO] - memory_limit: 1G (used: 5.1M | 2M) 
+[2020-03-14 21:07:38 : INFO] - multisite: N 
+[2020-03-14 21:07:38 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 21:07:38 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-14 21:11:17 : INFO] - Re_Smush_It_Task with attachment ID : 615, autocreated on : March 14, 2020 09:11:17 
+[2020-03-14 22:22:37 : INFO] - 
+ 
+[2020-03-14 22:22:37 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 22:22:37 +0000 on http://localhost/mhh 
+[2020-03-14 22:22:37 : INFO] - WP: 5.3.2 
+[2020-03-14 22:22:37 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 22:22:37 : INFO] - MySQL: 5.7.26 
+[2020-03-14 22:22:37 : INFO] - WPLANG: en_US 
+[2020-03-14 22:22:37 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 22:22:37 : INFO] - Outbound connections: N 
+[2020-03-14 22:22:37 : INFO] - safe_mode: 0 
+[2020-03-14 22:22:37 : INFO] - max_execution_time: 300 
+[2020-03-14 22:22:37 : INFO] - memory_limit: 1G (used: 5.1M | 2M) 
+[2020-03-14 22:22:37 : INFO] - multisite: N 
+[2020-03-14 22:22:37 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 22:22:37 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-14 22:22:37 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 22:22:37 
+[2020-03-14 22:22:37 : INFO] - Semaphore lock (smush) complete 
+[2020-03-14 22:22:37 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2020-03-14 22:22:37 : INFO] - Re_Smush_It_Task with attachment ID : 615, autocreated on : March 14, 2020 09:11:17 
+[2020-03-14 22:22:37 : INFO] - 95 
+[2020-03-14 22:22:38 : INFO] - Task with ID 50 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 22:22:38 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-14 22:22:38 : INFO] - Semaphore (smush) unlocked 
+[2020-03-14 22:22:38 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-14 22:22:38 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-14 22:22:38 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
