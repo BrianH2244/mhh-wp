@@ -605,3 +605,63 @@
 [2020-03-14 20:24:30 : INFO] - Semaphore (smush) unlocked 
 [2020-03-14 20:24:30 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
 [2020-03-14 20:24:30 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-14 20:33:21 : INFO] - Re_Smush_It_Task with attachment ID : 606, autocreated on : March 14, 2020 08:33:21 
+[2020-03-14 20:33:35 : INFO] - Re_Smush_It_Task with attachment ID : 607, autocreated on : March 14, 2020 08:33:35 
+[2020-03-14 20:34:16 : INFO] - 
+ 
+[2020-03-14 20:34:16 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 20:34:16 +0000 on http://localhost/mhh 
+[2020-03-14 20:34:16 : INFO] - WP: 5.3.2 
+[2020-03-14 20:34:16 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 20:34:16 : INFO] - MySQL: 5.7.26 
+[2020-03-14 20:34:16 : INFO] - WPLANG: en_US 
+[2020-03-14 20:34:16 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 20:34:16 : INFO] - Outbound connections: N 
+[2020-03-14 20:34:16 : INFO] - safe_mode: 0 
+[2020-03-14 20:34:16 : INFO] - max_execution_time: 300 
+[2020-03-14 20:34:16 : INFO] - memory_limit: 1G (used: 5.1M | 2M) 
+[2020-03-14 20:34:16 : INFO] - multisite: N 
+[2020-03-14 20:34:16 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 20:34:16 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2020-03-14 20:34:16 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 20:34:16 
+[2020-03-14 20:34:16 : INFO] - Semaphore lock (smush) complete 
+[2020-03-14 20:34:16 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2020-03-14 20:34:16 : INFO] - Re_Smush_It_Task with attachment ID : 604, autocreated on : March 14, 2020 08:24:17 
+[2020-03-14 20:34:16 : INFO] - 95 
+[2020-03-14 20:34:16 : INFO] - Task with ID 44 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:34:16 : INFO] - Re_Smush_It_Task with attachment ID : 604, autocreated on : March 14, 2020 08:24:17 
+[2020-03-14 20:34:16 : INFO] - 95 
+[2020-03-14 20:34:18 : INFO] - Re_Smush_It_Task with attachment ID : 604, autocreated on : March 14, 2020 08:24:17 
+[2020-03-14 20:34:18 : INFO] - 95 
+[2020-03-14 20:34:19 : INFO] - Task with ID 44 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:34:19 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/prostate-diagram2.jpg.The file was compressed from 26.41 KB to 26.41 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:34:19 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2020-03-14 20:34:19 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2020-03-14 20:34:19 : INFO] - Re_Smush_It_Task with attachment ID : 606, autocreated on : March 14, 2020 08:33:21 
+[2020-03-14 20:34:19 : INFO] - 95 
+[2020-03-14 20:34:20 : INFO] - Backing up the original image - 2020/03/inspirational-man2-updraft-pre-smush-original.jpg 
+[2020-03-14 20:34:20 : INFO] - Re_Smush_It_Task with attachment ID : 606, autocreated on : March 14, 2020 08:33:21 
+[2020-03-14 20:34:20 : INFO] - 95 
+[2020-03-14 20:34:20 : INFO] - Task with ID 45 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:34:20 : INFO] - Re_Smush_It_Task with attachment ID : 606, autocreated on : March 14, 2020 08:33:21 
+[2020-03-14 20:34:20 : INFO] - 95 
+[2020-03-14 20:34:21 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/inspirational-man2.jpg.The file was compressed from 15.74 KB to 15.74 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:34:21 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2020-03-14 20:34:21 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2020-03-14 20:34:21 : INFO] - Re_Smush_It_Task with attachment ID : 607, autocreated on : March 14, 2020 08:33:35 
+[2020-03-14 20:34:21 : INFO] - 95 
+[2020-03-14 20:34:22 : INFO] - Task with ID 46 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:34:22 : INFO] - Re_Smush_It_Task with attachment ID : 607, autocreated on : March 14, 2020 08:33:35 
+[2020-03-14 20:34:22 : INFO] - 95 
+[2020-03-14 20:34:22 : INFO] - Task with ID 46 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:34:22 : INFO] - Re_Smush_It_Task with attachment ID : 607, autocreated on : March 14, 2020 08:33:35 
+[2020-03-14 20:34:22 : INFO] - 95 
+[2020-03-14 20:34:24 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/a-long-road.jpg.The file was compressed from 8.44 KB to 8.44 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:34:24 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2020-03-14 20:34:24 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-14 20:34:24 : INFO] - Semaphore (smush) unlocked 
+[2020-03-14 20:34:24 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2020-03-14 20:34:24 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-14 20:34:24 : INFO] - Cleaning up tasks of type (smush). A total of 17 tasks will be deleted. 
+[2020-03-14 20:34:54 : INFO] - Re_Smush_It_Task with attachment ID : 609, autocreated on : March 14, 2020 08:34:54 
+[2020-03-14 20:35:23 : INFO] - Re_Smush_It_Task with attachment ID : 611, autocreated on : March 14, 2020 08:35:23 
+[2020-03-14 20:36:40 : INFO] - Re_Smush_It_Task with attachment ID : 613, autocreated on : March 14, 2020 08:36:40 
