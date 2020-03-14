@@ -217,3 +217,36 @@
 [2020-03-14 19:33:31 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
 [2020-03-14 19:33:31 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
 [2020-03-14 19:33:52 : INFO] - Re_Smush_It_Task with attachment ID : 565, autocreated on : March 14, 2020 07:33:52 
+[2020-03-14 19:43:25 : INFO] - 
+ 
+[2020-03-14 19:43:25 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 19:43:25 +0000 on http://localhost/mhh 
+[2020-03-14 19:43:25 : INFO] - WP: 5.3.2 
+[2020-03-14 19:43:25 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 19:43:25 : INFO] - MySQL: 5.7.26 
+[2020-03-14 19:43:25 : INFO] - WPLANG: en_US 
+[2020-03-14 19:43:25 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 19:43:25 : INFO] - Outbound connections: N 
+[2020-03-14 19:43:25 : INFO] - safe_mode: 0 
+[2020-03-14 19:43:25 : INFO] - max_execution_time: 300 
+[2020-03-14 19:43:25 : INFO] - memory_limit: 1G (used: 5.1M | 2M) 
+[2020-03-14 19:43:25 : INFO] - multisite: N 
+[2020-03-14 19:43:25 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 19:43:25 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-14 19:43:25 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 19:43:25 
+[2020-03-14 19:43:25 : INFO] - Semaphore lock (smush) complete 
+[2020-03-14 19:43:25 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2020-03-14 19:43:25 : INFO] - Re_Smush_It_Task with attachment ID : 565, autocreated on : March 14, 2020 07:33:52 
+[2020-03-14 19:43:25 : INFO] - 95 
+[2020-03-14 19:43:26 : INFO] - Backing up the original image - 2020/03/testosterone-injection-insulin-syringe-updraft-pre-smush-original.jpg 
+[2020-03-14 19:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 565, autocreated on : March 14, 2020 07:33:52 
+[2020-03-14 19:43:26 : INFO] - 95 
+[2020-03-14 19:43:27 : INFO] - Re_Smush_It_Task with attachment ID : 565, autocreated on : March 14, 2020 07:33:52 
+[2020-03-14 19:43:27 : INFO] - 95 
+[2020-03-14 19:43:28 : INFO] - Task with ID 19 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 19:43:28 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/testosterone-injection-insulin-syringe.jpg.The file was compressed from 27.63 KB to 27.63 KB saving 0 percent using WP-Optimize 
+[2020-03-14 19:43:28 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2020-03-14 19:43:28 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-14 19:43:28 : INFO] - Semaphore (smush) unlocked 
+[2020-03-14 19:43:28 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-14 19:43:28 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-14 19:43:28 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
