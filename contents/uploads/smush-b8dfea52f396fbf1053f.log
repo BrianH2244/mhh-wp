@@ -411,3 +411,197 @@
 [2020-03-14 20:07:55 : INFO] - Re_Smush_It_Task with attachment ID : 590, autocreated on : March 14, 2020 08:07:55 
 [2020-03-14 20:08:36 : INFO] - Re_Smush_It_Task with attachment ID : 591, autocreated on : March 14, 2020 08:08:36 
 [2020-03-14 20:09:11 : INFO] - Re_Smush_It_Task with attachment ID : 592, autocreated on : March 14, 2020 08:09:11 
+[2020-03-14 20:14:05 : INFO] - 
+ 
+[2020-03-14 20:14:05 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 20:14:05 +0000 on http://localhost/mhh 
+[2020-03-14 20:14:05 : INFO] - WP: 5.3.2 
+[2020-03-14 20:14:05 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 20:14:05 : INFO] - MySQL: 5.7.26 
+[2020-03-14 20:14:05 : INFO] - WPLANG: en_US 
+[2020-03-14 20:14:05 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 20:14:05 : INFO] - Outbound connections: N 
+[2020-03-14 20:14:05 : INFO] - safe_mode: 0 
+[2020-03-14 20:14:05 : INFO] - max_execution_time: 300 
+[2020-03-14 20:14:05 : INFO] - memory_limit: 1G (used: 5.1M | 2M) 
+[2020-03-14 20:14:05 : INFO] - multisite: N 
+[2020-03-14 20:14:05 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 20:14:05 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2020-03-14 20:14:05 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 20:14:05 
+[2020-03-14 20:14:05 : INFO] - Semaphore lock (smush) complete 
+[2020-03-14 20:14:05 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2020-03-14 20:14:05 : INFO] - Re_Smush_It_Task with attachment ID : 591, autocreated on : March 14, 2020 08:08:36 
+[2020-03-14 20:14:05 : INFO] - 95 
+[2020-03-14 20:14:07 : INFO] - Backing up the original image - 2020/03/pictures-of-prostate-cancer-6-updraft-pre-smush-original.jpg 
+[2020-03-14 20:14:07 : INFO] - Re_Smush_It_Task with attachment ID : 591, autocreated on : March 14, 2020 08:08:36 
+[2020-03-14 20:14:07 : INFO] - 95 
+[2020-03-14 20:14:09 : INFO] - Re_Smush_It_Task with attachment ID : 591, autocreated on : March 14, 2020 08:08:36 
+[2020-03-14 20:14:09 : INFO] - 95 
+[2020-03-14 20:14:09 : INFO] - Task with ID 35 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:14:09 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/pictures-of-prostate-cancer-6.jpg.The file was compressed from 63.37 KB to 63.37 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:14:09 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2020-03-14 20:14:09 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2020-03-14 20:14:09 : INFO] - Re_Smush_It_Task with attachment ID : 589, autocreated on : March 14, 2020 08:07:14 
+[2020-03-14 20:14:09 : INFO] - 95 
+[2020-03-14 20:14:10 : INFO] - Backing up the original image - 2020/03/pictures-of-prostate-cancer-4-updraft-pre-smush-original.jpg 
+[2020-03-14 20:14:10 : INFO] - Re_Smush_It_Task with attachment ID : 589, autocreated on : March 14, 2020 08:07:14 
+[2020-03-14 20:14:10 : INFO] - 95 
+[2020-03-14 20:14:14 : INFO] - Re_Smush_It_Task with attachment ID : 589, autocreated on : March 14, 2020 08:07:14 
+[2020-03-14 20:14:14 : INFO] - 95 
+[2020-03-14 20:14:14 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/pictures-of-prostate-cancer-4.jpg.The file was compressed from 21.70 KB to 21.70 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:14:14 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2020-03-14 20:14:14 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2020-03-14 20:14:14 : INFO] - Re_Smush_It_Task with attachment ID : 590, autocreated on : March 14, 2020 08:07:55 
+[2020-03-14 20:14:14 : INFO] - 95 
+[2020-03-14 20:14:16 : INFO] - Backing up the original image - 2020/03/pictures-of-prostate-cancer-5-updraft-pre-smush-original.jpg 
+[2020-03-14 20:14:16 : INFO] - Re_Smush_It_Task with attachment ID : 590, autocreated on : March 14, 2020 08:07:55 
+[2020-03-14 20:14:16 : INFO] - 95 
+[2020-03-14 20:14:16 : INFO] - Re_Smush_It_Task with attachment ID : 590, autocreated on : March 14, 2020 08:07:55 
+[2020-03-14 20:14:16 : INFO] - 95 
+[2020-03-14 20:14:17 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/pictures-of-prostate-cancer-5.jpg.The file was compressed from 21.59 KB to 21.59 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:14:17 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2020-03-14 20:14:17 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2020-03-14 20:14:17 : INFO] - Re_Smush_It_Task with attachment ID : 587, autocreated on : March 14, 2020 08:05:53 
+[2020-03-14 20:14:17 : INFO] - 95 
+[2020-03-14 20:14:18 : INFO] - Backing up the original image - 2020/03/pictures-of-prostate-cancer-2-updraft-pre-smush-original.jpg 
+[2020-03-14 20:14:18 : INFO] - Re_Smush_It_Task with attachment ID : 587, autocreated on : March 14, 2020 08:05:53 
+[2020-03-14 20:14:18 : INFO] - 95 
+[2020-03-14 20:14:22 : INFO] - Re_Smush_It_Task with attachment ID : 587, autocreated on : March 14, 2020 08:05:53 
+[2020-03-14 20:14:22 : INFO] - 95 
+[2020-03-14 20:14:23 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/pictures-of-prostate-cancer-2.jpg.The file was compressed from 19.42 KB to 19.42 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:14:23 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2020-03-14 20:14:23 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2020-03-14 20:14:23 : INFO] - Re_Smush_It_Task with attachment ID : 588, autocreated on : March 14, 2020 08:06:36 
+[2020-03-14 20:14:23 : INFO] - 95 
+[2020-03-14 20:14:24 : INFO] - Backing up the original image - 2020/03/pictures-of-prostate-cancer-3-updraft-pre-smush-original.jpg 
+[2020-03-14 20:14:24 : INFO] - Re_Smush_It_Task with attachment ID : 588, autocreated on : March 14, 2020 08:06:36 
+[2020-03-14 20:14:24 : INFO] - 95 
+[2020-03-14 20:14:24 : INFO] - Re_Smush_It_Task with attachment ID : 594, autocreated on : March 14, 2020 08:14:24 
+[2020-03-14 20:14:24 : INFO] - Re_Smush_It_Task with attachment ID : 588, autocreated on : March 14, 2020 08:06:36 
+[2020-03-14 20:14:24 : INFO] - 95 
+[2020-03-14 20:14:25 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/pictures-of-prostate-cancer-3.jpg.The file was compressed from 17.31 KB to 17.31 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:14:25 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2020-03-14 20:14:25 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 20:14:25 
+[2020-03-14 20:14:25 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2020-03-14 20:14:25 : INFO] - Re_Smush_It_Task with attachment ID : 586, autocreated on : March 14, 2020 08:05:11 
+[2020-03-14 20:14:25 : INFO] - 95 
+[2020-03-14 20:14:25 : INFO] - Task with ID 30 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:14:25 : INFO] - Re_Smush_It_Task with attachment ID : 586, autocreated on : March 14, 2020 08:05:11 
+[2020-03-14 20:14:25 : INFO] - 95 
+[2020-03-14 20:14:26 : INFO] - Task with ID 30 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:14:26 : INFO] - Re_Smush_It_Task with attachment ID : 586, autocreated on : March 14, 2020 08:05:11 
+[2020-03-14 20:14:26 : INFO] - 95 
+[2020-03-14 20:14:26 : INFO] - Task with ID 30 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:14:26 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2020-03-14 20:14:26 : INFO] - Re_Smush_It_Task with attachment ID : 592, autocreated on : March 14, 2020 08:09:11 
+[2020-03-14 20:14:26 : INFO] - 95 
+[2020-03-14 20:14:27 : INFO] - Backing up the original image - 2020/03/pictures-of-prostate-cancer-7-updraft-pre-smush-original.jpg 
+[2020-03-14 20:14:27 : INFO] - Re_Smush_It_Task with attachment ID : 592, autocreated on : March 14, 2020 08:09:11 
+[2020-03-14 20:14:27 : INFO] - 95 
+[2020-03-14 20:14:28 : INFO] - Task with ID 36 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:14:28 : INFO] - Re_Smush_It_Task with attachment ID : 592, autocreated on : March 14, 2020 08:09:11 
+[2020-03-14 20:14:28 : INFO] - 95 
+[2020-03-14 20:14:28 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/pictures-of-prostate-cancer-7.jpg.The file was compressed from 45.12 KB to 44.42 KB saving 1.54 percent using WP-Optimize 
+[2020-03-14 20:14:28 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2020-03-14 20:14:28 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-14 20:14:28 : INFO] - Semaphore (smush) unlocked 
+[2020-03-14 20:14:28 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2020-03-14 20:14:29 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-14 20:14:59 : INFO] - Re_Smush_It_Task with attachment ID : 595, autocreated on : March 14, 2020 08:14:59 
+[2020-03-14 20:17:35 : INFO] - Re_Smush_It_Task with attachment ID : 597, autocreated on : March 14, 2020 08:17:35 
+[2020-03-14 20:18:12 : INFO] - Re_Smush_It_Task with attachment ID : 598, autocreated on : March 14, 2020 08:18:12 
+[2020-03-14 20:21:13 : INFO] - Re_Smush_It_Task with attachment ID : 600, autocreated on : March 14, 2020 08:21:13 
+[2020-03-14 20:21:43 : INFO] - Re_Smush_It_Task with attachment ID : 601, autocreated on : March 14, 2020 08:21:43 
+[2020-03-14 20:22:10 : INFO] - Re_Smush_It_Task with attachment ID : 602, autocreated on : March 14, 2020 08:22:10 
+[2020-03-14 20:24:16 : INFO] - 
+ 
+[2020-03-14 20:24:16 : INFO] - Header for logs at time:  Sat, 14 Mar 2020 20:24:16 +0000 on http://localhost/mhh 
+[2020-03-14 20:24:16 : INFO] - WP: 5.3.2 
+[2020-03-14 20:24:16 : INFO] - PHP: 7.3.12 (apache2handler, Windows NT LAPTOP-6JTHG8HB 10.0 build 17763 (Windows 10) AMD64) 
+[2020-03-14 20:24:16 : INFO] - MySQL: 5.7.26 
+[2020-03-14 20:24:16 : INFO] - WPLANG: en_US 
+[2020-03-14 20:24:16 : INFO] - Server: Apache/2.4.39 (Win64) PHP/7.3.12 
+[2020-03-14 20:24:16 : INFO] - Outbound connections: N 
+[2020-03-14 20:24:16 : INFO] - safe_mode: 0 
+[2020-03-14 20:24:16 : INFO] - max_execution_time: 300 
+[2020-03-14 20:24:16 : INFO] - memory_limit: 1G (used: 5.1M | 2M) 
+[2020-03-14 20:24:16 : INFO] - multisite: N 
+[2020-03-14 20:24:16 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-14 20:24:16 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2020-03-14 20:24:16 : INFO] - Set semaphore last lock (smush) time to 2020-03-14 20:24:16 
+[2020-03-14 20:24:16 : INFO] - Semaphore lock (smush) complete 
+[2020-03-14 20:24:16 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2020-03-14 20:24:16 : INFO] - Re_Smush_It_Task with attachment ID : 594, autocreated on : March 14, 2020 08:14:24 
+[2020-03-14 20:24:16 : INFO] - 95 
+[2020-03-14 20:24:17 : INFO] - Task with ID 37 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:17 : INFO] - Re_Smush_It_Task with attachment ID : 594, autocreated on : March 14, 2020 08:14:24 
+[2020-03-14 20:24:17 : INFO] - 95 
+[2020-03-14 20:24:17 : INFO] - Re_Smush_It_Task with attachment ID : 604, autocreated on : March 14, 2020 08:24:17 
+[2020-03-14 20:24:17 : INFO] - Task with ID 37 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:17 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2020-03-14 20:24:17 : INFO] - Re_Smush_It_Task with attachment ID : 595, autocreated on : March 14, 2020 08:14:59 
+[2020-03-14 20:24:17 : INFO] - 95 
+[2020-03-14 20:24:18 : INFO] - Backing up the original image - 2020/03/free-bound-psa-levels-in-vivo-updraft-pre-smush-original.jpg 
+[2020-03-14 20:24:18 : INFO] - Re_Smush_It_Task with attachment ID : 595, autocreated on : March 14, 2020 08:14:59 
+[2020-03-14 20:24:18 : INFO] - 95 
+[2020-03-14 20:24:19 : INFO] - Re_Smush_It_Task with attachment ID : 595, autocreated on : March 14, 2020 08:14:59 
+[2020-03-14 20:24:19 : INFO] - 95 
+[2020-03-14 20:24:20 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/free-bound-psa-levels-in-vivo.jpg.The file was compressed from 25.54 KB to 25.09 KB saving 1.8 percent using WP-Optimize 
+[2020-03-14 20:24:20 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2020-03-14 20:24:20 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2020-03-14 20:24:20 : INFO] - Re_Smush_It_Task with attachment ID : 597, autocreated on : March 14, 2020 08:17:35 
+[2020-03-14 20:24:20 : INFO] - 95 
+[2020-03-14 20:24:20 : INFO] - Task with ID 39 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:20 : INFO] - Re_Smush_It_Task with attachment ID : 597, autocreated on : March 14, 2020 08:17:35 
+[2020-03-14 20:24:20 : INFO] - 95 
+[2020-03-14 20:24:20 : INFO] - Task with ID 39 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:20 : INFO] - Re_Smush_It_Task with attachment ID : 597, autocreated on : March 14, 2020 08:17:35 
+[2020-03-14 20:24:20 : INFO] - 95 
+[2020-03-14 20:24:21 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/prostate-cancer-stages2.gif.The file was compressed from 9.73 KB to 9.73 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:24:21 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2020-03-14 20:24:21 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2020-03-14 20:24:21 : INFO] - Re_Smush_It_Task with attachment ID : 598, autocreated on : March 14, 2020 08:18:12 
+[2020-03-14 20:24:21 : INFO] - 95 
+[2020-03-14 20:24:21 : INFO] - Task with ID 40 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:21 : INFO] - Re_Smush_It_Task with attachment ID : 598, autocreated on : March 14, 2020 08:18:12 
+[2020-03-14 20:24:21 : INFO] - 95 
+[2020-03-14 20:24:22 : INFO] - Re_Smush_It_Task with attachment ID : 598, autocreated on : March 14, 2020 08:18:12 
+[2020-03-14 20:24:22 : INFO] - 95 
+[2020-03-14 20:24:23 : INFO] - Task with ID 40 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:23 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/prostate-cancer-stages.jpg.The file was compressed from 23.54 KB to 23.54 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:24:23 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2020-03-14 20:24:23 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2020-03-14 20:24:23 : INFO] - Re_Smush_It_Task with attachment ID : 600, autocreated on : March 14, 2020 08:21:13 
+[2020-03-14 20:24:23 : INFO] - 95 
+[2020-03-14 20:24:23 : INFO] - Task with ID 41 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:23 : INFO] - Re_Smush_It_Task with attachment ID : 600, autocreated on : March 14, 2020 08:21:13 
+[2020-03-14 20:24:23 : INFO] - 95 
+[2020-03-14 20:24:25 : INFO] - Re_Smush_It_Task with attachment ID : 600, autocreated on : March 14, 2020 08:21:13 
+[2020-03-14 20:24:25 : INFO] - 95 
+[2020-03-14 20:24:25 : INFO] - Task with ID 41 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:25 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/best-treatment-for-prostate-cancer.jpg.The file was compressed from 41.51 KB to 41.51 KB saving 0 percent using WP-Optimize 
+[2020-03-14 20:24:25 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2020-03-14 20:24:25 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2020-03-14 20:24:25 : INFO] - Re_Smush_It_Task with attachment ID : 601, autocreated on : March 14, 2020 08:21:43 
+[2020-03-14 20:24:25 : INFO] - 95 
+[2020-03-14 20:24:26 : INFO] - Task with ID 42 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:26 : INFO] - Re_Smush_It_Task with attachment ID : 601, autocreated on : March 14, 2020 08:21:43 
+[2020-03-14 20:24:26 : INFO] - 95 
+[2020-03-14 20:24:26 : INFO] - Task with ID 42 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:26 : INFO] - Re_Smush_It_Task with attachment ID : 601, autocreated on : March 14, 2020 08:21:43 
+[2020-03-14 20:24:26 : INFO] - 95 
+[2020-03-14 20:24:27 : INFO] - Task with ID 42 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:27 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2020-03-14 20:24:27 : INFO] - Re_Smush_It_Task with attachment ID : 602, autocreated on : March 14, 2020 08:22:10 
+[2020-03-14 20:24:27 : INFO] - 95 
+[2020-03-14 20:24:28 : INFO] - Backing up the original image - 2020/03/best-treatment-for-prostate-cancer-3-updraft-pre-smush-original.jpg 
+[2020-03-14 20:24:28 : INFO] - Re_Smush_It_Task with attachment ID : 602, autocreated on : March 14, 2020 08:22:10 
+[2020-03-14 20:24:28 : INFO] - 95 
+[2020-03-14 20:24:29 : INFO] - Re_Smush_It_Task with attachment ID : 602, autocreated on : March 14, 2020 08:22:10 
+[2020-03-14 20:24:29 : INFO] - 95 
+[2020-03-14 20:24:30 : INFO] - Task with ID 43 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2020-03-14 20:24:30 : INFO] - Successfully optimized the image - C:\wamp64\www\mhh/wp-content/uploads/2020/03/best-treatment-for-prostate-cancer-3.jpg.The file was compressed from 37.08 KB to 34.84 KB saving 6.04 percent using WP-Optimize 
+[2020-03-14 20:24:30 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2020-03-14 20:24:30 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-14 20:24:30 : INFO] - Semaphore (smush) unlocked 
+[2020-03-14 20:24:30 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2020-03-14 20:24:30 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
