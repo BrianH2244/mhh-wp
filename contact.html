@@ -1244,7 +1244,7 @@ body{background-color:#efefef;color:#3a3a3a;}a, a:visited{color:#1e73be;}a:hover
 					© 2020 Men's Hormonal Health<br><a href="https://www.menshormonalhealth.com/privacy-policy.html">Privacy Policy</a>  |  <a href="https://www.menshormonalhealth.com/disclaimer.html">Disclaimer</a> |  <a href="https://www.menshormonalhealth.com/about.html">About</a> |  <a href="https://www.menshormonalhealth.com/contact.html">Contact</a>				</div>
 			</div>
 		</footer>
-		<script type="text/javascript">
+<script type="text/javascript">
 
 $(function() {
 
@@ -1279,23 +1279,23 @@ $(function() {
                 success: function() {
                     // Success message
                     $('#success').html("<div class='alert alert-success'>");
-                    $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>×")
-                        .append("");
+                    $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+                        .append("</button>");
                     $('#success > .alert-success')
-                        .append("<strong>Your message has been sent. ");
+                        .append("<strong>Your message has been sent. </strong>");
                     $('#success > .alert-success')
-                        .append('</script></div>');
+                        .append('</div>');
 
                     //clear all fields
                     $('#contactForm').trigger("reset");
                 },
                 error: function() {
                     // Fail message
-                    $('#success').html("<div class="alert alert-danger">");
-                    $('#success > .alert-danger').html("<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×")
+                    $('#success').html("<div class='alert alert-danger'>");
+                    $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
                     $('#success > .alert-danger').append("<strong>Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!");
-                    $('#success > .alert-danger').append('</strong></div>');
+                    $('#success > .alert-danger').append('</div>');
                     //clear all fields
                     $('#contactForm').trigger("reset");
                 },
@@ -1317,6 +1317,7 @@ $(function() {
 $('#name').focus(function() {
     $('#success').html('');
 });
+
 </script>
 
 
