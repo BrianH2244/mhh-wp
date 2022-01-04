@@ -61,7 +61,7 @@ input[type=email], input[type=number], input[type=password], input[type=search],
 textarea {overflow: auto;vertical-align: top;width: 100%;}
 input[type=file] {max-width: 100%;box-sizing: border-box;}
 a, button, input {transition: color .1s ease-in-out,background-color .1s ease-in-out;}
-a, a:focus, a:hover, a:visited {text-decoration: none;}
+a {text-decoration: none;}
 .button, .wp-block-button .wp-block-button__link {padding: 10px 20px;display: inline-block;}
 .wp-block-button .wp-block-button__link {font-size: inherit;line-height: inherit;}
 .using-mouse :focus {outline: 0;}
@@ -96,6 +96,7 @@ a, a:focus, a:hover, a:visited {text-decoration: none;}
 .main-navigation ul ul li {width: 100%;}
 .main-navigation .main-nav ul ul li a {line-height: normal;padding: 10px 20px;font-size: 14px;}
 .main-navigation .main-nav ul li.menu-item-has-children>a {padding-right: 0;position: relative;}
+.main-navigation.sub-menu-left ul ul {box-shadow: -1px 1px 0 rgba(0,0,0,.1);}
 .main-navigation.sub-menu-left .sub-menu {right: 0;}
 .main-navigation:not(.toggled) ul li.sfHover>ul, .main-navigation:not(.toggled) ul li:hover>ul {left: auto;opacity: 1;transition-delay: 150ms;pointer-events: auto;height: auto;overflow: visible;}
 .main-navigation:not(.toggled) ul ul li.sfHover>ul, .main-navigation:not(.toggled) ul ul li:hover>ul {left: 100%;top: 0;}
@@ -174,6 +175,7 @@ footer.entry-meta {margin-top: 2em;}
 .gallery-item img {vertical-align: bottom;}
 .gallery-icon {padding: 5px;}
 embed, iframe, object {max-width: 100%;}
+.wp-block-post-template {margin-left: 0;}
 .comment-content a {word-wrap: break-word;}
 .bypostauthor {display: block;}
 .comment, .comment-list {list-style-type: none;padding: 0;margin: 0;}
@@ -185,6 +187,7 @@ embed, iframe, object {max-width: 100%;}
 .comment-respond {margin-top: 0;}
 .comment-form>.form-submit {margin-bottom: 0;}
 .comment-form input, .comment-form-comment {margin-bottom: 10px;}
+.comment-form-comment textarea {resize: vertical;}
 .comment-form #author, .comment-form #email, .comment-form #url {display: block;}
 .comment-metadata .edit-link:before {display: none;}
 .comment-body {padding: 30px 0;}
@@ -237,7 +240,7 @@ ol.comment-list {margin-bottom: 1.5em;}
 .separate-containers.both-left .inside-left-sidebar, .separate-containers.both-right .inside-left-sidebar {margin-right: 10px;}
 .separate-containers.both-left .inside-right-sidebar, .separate-containers.both-right .inside-right-sidebar {margin-left: 10px;}
 .separate-containers .inside-left-sidebar, .separate-containers .inside-right-sidebar {margin-top: 20px;margin-bottom: 20px;}
-.inside-page-header, .wp-block-group__inner-container {padding: 40px;}
+.inside-page-header {padding: 40px;}
 .widget-area .main-navigation {margin-bottom: 20px;}
 .one-container .site-main>:last-child, .separate-containers .site-main>:last-child {margin-bottom: 0;}
 .full-width-content .container.grid-container {max-width: 100%;}

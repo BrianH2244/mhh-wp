@@ -1,5 +1,5 @@
 @font-face {font-family: GeneratePress;src: url("../../fonts/generatepress.eot");src: url("../../fonts/generatepress.eot#iefix") format("embedded-opentype"),url("../../fonts/generatepress.woff2") format("woff2"),url("../../fonts/generatepress.woff") format("woff"),url("../../fonts/generatepress.ttf") format("truetype"),url("../../fonts/generatepress.svg#GeneratePress") format("svg");font-weight: 400;font-style: normal;}
-.cat-links:before, .comments-link:before, .dropdown-menu-toggle:before, .generate-back-to-top:before, .menu-toggle:before, .nav-next .next:before, .nav-previous .prev:before, .search-item a:before, .tags-links:before {-moz-osx-font-smoothing: grayscale;-webkit-font-smoothing: antialiased;font-style: normal;font-variant: normal;text-rendering: auto;line-height: 1;}
+.cat-links:before, .comments-link:before, .dropdown-menu-toggle:before, .generate-back-to-top:before, .menu-toggle:before, .nav-next .next:before, .nav-previous .prev:before, .search-form .search-submit:before, .search-item a:before, .tags-links:before {-moz-osx-font-smoothing: grayscale;-webkit-font-smoothing: antialiased;font-style: normal;font-variant: normal;text-rendering: auto;line-height: 1;}
 .cat-links:before, .comments-link:before, .nav-next .next:before, .nav-previous .prev:before, .tags-links:before {opacity: .7;}
 .menu-toggle:before {content: "";font-family: GeneratePress;width: 1.28571429em;text-align: center;display: inline-block;}
 .toggled .menu-toggle:before {content: "";}
@@ -22,3 +22,4 @@ nav:not(.toggled) ul ul .dropdown-menu-toggle:before {text-align: right;}
 .dropdown-hover .inside-right-sidebar .dropdown-menu-toggle:before, .dropdown-hover.both-right .inside-left-sidebar .dropdown-menu-toggle:before {content: "";}
 .dropdown-hover .inside-left-sidebar .dropdown-menu-toggle:before, .dropdown-hover.both-left .inside-right-sidebar .dropdown-menu-toggle:before {content: "";}
 .generate-back-to-top:before {content: "";font-family: GeneratePress;}
+.search-form .search-submit:before {content: "";font-family: GeneratePress;width: 1.28571429em;text-align: center;display: inline-block;}

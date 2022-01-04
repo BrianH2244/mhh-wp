@@ -1,4 +1,4 @@
-.block-editor-block-list__block a, .block-editor-block-list__block a:visited, .block-editor-block-list__block a:hover, .block-editor-block-list__block a:focus {text-decoration: none;}
+.wp-block a {text-decoration: none;}
 .block-editor-block-list__layout pre {background: rgba(0,0,0,.05);font-family: inherit;font-size: inherit;line-height: normal;margin-bottom: 1.5em;padding: 20px;overflow: auto;max-width: 100%;color: inherit;}
 body .block-editor-block-list__block blockquote {border-left: 5px solid rgba(0,0,0,.05);padding: 20px;font-size: 1.2em;font-style: italic;margin: 0 0 1.5em;position: relative;color: inherit;}
 body .wp-block-quote:not(.is-large):not(.is-style-large) {border-left: 5px solid rgba(0,0,0,.05);padding: 20px;}
@@ -12,7 +12,7 @@ body .block-editor-block-list__block hr {background-color: rgba(0,0,0,.1);border
 body .block-editor-block-list__block, body .block-editor-block-list__block p {font-size: inherit;}
 body .block-editor-default-block-appender input[type=text].editor-default-block-appender__content, body .block-editor-default-block-appender textarea.editor-default-block-appender__content {font-family: inherit;font-size: inherit;}
 .block-editor-block-list__layout .wp-block-gallery li figcaption {background: rgba(255,255,255,.7);color: #000;padding: 10px;box-sizing: border-box;}
-.block-editor-block-list__layout .wp-block-button .wp-block-button__link {font-size: inherit;padding: 10px 15px;line-height: normal;}
+.block-editor-block-list__layout .wp-block-button .wp-block-button__link, .block-editor-block-list__layout .button {font-size: inherit;padding: 10px 15px;line-height: normal;}
 button.content-title-visibility {position: absolute;right: 0;font-size: 30px;line-height: 30px;top: calc(50% - 15px);opacity: .4;background: none;border: none;cursor: pointer;display: none;}
 button.show-content-title:before {content: "";}
 button.disable-content-title:before {content: "";}
